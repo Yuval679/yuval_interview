@@ -8,7 +8,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: ./k8s-objects
+    path: ./k8s-objects/cluster-objects
     repoURL: git@github.com:Yuval679/yuval_interview.git
     targetRevision: HEAD
   syncPolicy:
