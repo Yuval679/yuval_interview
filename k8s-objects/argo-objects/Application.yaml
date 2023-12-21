@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: yuval-interview
+  name: yuval-interview2
   namespace: argocd
 spec:
   destination:
